@@ -9,6 +9,7 @@
   border-width: medium;
   border-color: red;
   max-width: 50%;
+  float:right;
 }
 .div {
   font-style: italic;
@@ -28,4 +29,23 @@ h3 {
   text-decoration: underline;
   font-size: 50px;
   font-family: monospace;
+}
+.column {
+  float: left;
+  width: 35%;
+}
+.sidebar {
+float:right;
+width: 30%;
+background-color: yellow;
+box-shadow: 2px 2px black;
+}
+
+.flavors{
+  float: left;
+width: 100%;
+}
+
+.image{
+  float: left;
 }
