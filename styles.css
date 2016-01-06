@@ -1,0 +1,13 @@
+.flashy {
+  color:#4b0bc1;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Verdana;
+}
+.best {
+  border-style: solid;
+  border-width: medium;
+  border-color: red;
+  height: 400px;
+  width: 400px;
+}
