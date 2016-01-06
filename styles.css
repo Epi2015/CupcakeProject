@@ -8,6 +8,5 @@
   border-style: solid;
   border-width: medium;
   border-color: red;
-  height: 400px;
-  width: 400px;
+  max-width: 50%;
 }
